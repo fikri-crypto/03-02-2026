@@ -1,0 +1,53 @@
+
+body {
+    background-color: #f0f2f5; 
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #2c3e50;
+    text-align: center; 
+    text-decoration: underline; 
+    font-size: 32px; 
+}
+
+
+.box-artikel {
+    width: 80%; 
+    max-width: 600px;
+    height: auto; 
+    background-color: #ffffff; 
+    
+    margin: 20px auto; 
+    padding: 25px;
+    
+    border: 2px solid #3498db;
+    border-radius: 8px;
+}
+
+
+p {
+    color: #555555;
+    line-height: 1.6; 
+    font-size: 16px;
+    text-align: justify; 
+}
+
+.box-gambar {
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    
+ 
+    background-image: url(https://tse2.mm.bing.net/th/id/OIP.WB2blfFOPcBvD_1K0960_wHaEJ?pid=Api&P=0&h=180);
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
